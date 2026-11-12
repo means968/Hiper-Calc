@@ -209,4 +209,4 @@ This repository serves as the official landing page for HiPER Calc. The software
 **Get the most recent version of HiPER Calc today!**
 
 ---
-**Last updated:** 2026-11-11 23:17:06 UTC
+**Last updated:** 2026-11-12 05:38:45 UTC
